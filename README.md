@@ -21,12 +21,15 @@ Contact :
 <a href="https://stackoverflow.com/users/21948275/pouriya-sedaghat">
     <img src="https://img.shields.io/badge/StackOverflow-Let's Go-stackoverflow.svg?style=flat&logo=stackoverflow&logoColor=white&color=rgb(1, 66, 53)" alt="stackoverflow" />
 </a><br/>
+<a href="mailto:pouriyastk1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Let's Go-gmail.svg?style=flat&logo=gmail&logoColor=white" alt="gmail" />
+</a><br/>
 <a href="https://x.com/p_co_st">
-    <img src="https://img.shields.io/badge/X (Twitter)-Let's Go-x.svg?style=flat&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X (Twitter)-Let's Go-x.svg?style=flat&logo=x&logoColor=white&color=rgb(1, 66, 53)" alt="X" />
 </a><br/>
 <a href="https://wa.+989389372901">
-    <img src="https://img.shields.io/badge/Whatsapp-Let's Go-whatsapp.svg?style=flat&logo=whatsapp&logoColor=white&color=rgb(1, 66, 53)" alt="whatsapp" />
+    <img src="https://img.shields.io/badge/Whatsapp-Let's Go-whatsapp.svg?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a><br/>
 <a href="https://t.me/P_CO_ST">
-    <img src="https://img.shields.io/badge/Telegram-Let's Go-telegram.svg?style=flat&logo=telegram&logoColor=white" alt="telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Let's Go-telegram.svg?style=flat&logo=telegram&logoColor=white&color=rgb(1, 66, 53)" alt="telegram" />
 </a><br/>
