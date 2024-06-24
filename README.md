@@ -1,8 +1,8 @@
 **Hello, I'm Pouriya Sedaghat** 👋
 
-*The World Is Updating, Update Yourself.*
-
 <img src="https://github.com/pouriya-sedaghat/pouriya-sedaghat/blob/main/images/snake.gif" width="200px" align="right" alt="snake" />
+
+*The World Is Updating, Update Yourself.*
 
 <details>
     <summary>Developing Repositories</summary>
